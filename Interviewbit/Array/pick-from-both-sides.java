@@ -1,15 +1,14 @@
 public class Solution {
-    public int maxArr(ArrayList<Integer> A) {
-        int min1=Integer.MAX_VALUE,min2=Integer.MAX_VALUE;
-        int max1=Integer.MIN_VALUE, max2=Integer.MIN_VALUE;
-        
-        if(A.size()==0) return 0;
+    public int solve(ArrayList<Integer> A, int B) {
+    
         for(int i=0;i<A.size();i++){
-            min1=Math.min(min1,A.get(i)+i);
-            max1=Math.max(max1,A.get(i)+i);
-            min2=Math.min(min2,A.get(i)-i);
-            max2=Math.max(max2,A.get(i)-i);
+            A.set(i,A.get(i)+A.get(i-1));
         }
-        return Math.max(max1-min1,max2-min2);
+        int sum=Integer.MAX_VALUE;
+        int n=A.size();
+        for(int i=0;i<B;i++){
+            sum=Math.max(sum,A.get(i)+A.get(n-1)-A.get(n-(B-i)));
+        }
+        return sum;
     }
 }
