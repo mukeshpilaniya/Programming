@@ -13,24 +13,24 @@
  */
 public class Solution {
     public ArrayList<Integer> solve(TreeNode A) {
-        ArrayList<Integer> ans=new ArrayList<>();
-        Queue<TreeNode> q=new LinkedList<TreeNode>();
+        if(A==null) return new ArrayList<>();
+        
         TreeNode tmp;
+        Queue<TreeNode> q=new LinkedList<>();
         q.add(A);
+        ArrayList<Integer> ans=new ArrayList<>();
+        
         while(!q.isEmpty()){
             int size=q.size();
-            for(int i=0;i<size;i++){
+            for(int i=1;i<=size;i++){
                 tmp=q.poll();
-                if(tmp.right!=null){
-                    q.add(tmp.right);
+                if(i==size){
+                    ans.add(tmp.val);
                 }
-                if(tmp.left!=null){
-                    q.add(tmp.left);
-                }
-                ans.add(tmp.val);
+                if(tmp.left!=null) q.add(tmp.left);
+                if(tmp.right!=null) q.add(tmp.right);
             }
         }
-        Collections.reverse(ans);
         return ans;
     }
 }

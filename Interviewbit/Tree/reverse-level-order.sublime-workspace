@@ -1,0 +1,523 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"List",
+				"ArrayList"
+			],
+			[
+				"lo",
+				"loadDummyData"
+			],
+			[
+				"produ",
+				"productList"
+			],
+			[
+				"cat",
+				"categorie"
+			],
+			[
+				"produc",
+				"productId"
+			],
+			[
+				"get",
+				"getCost"
+			],
+			[
+				"Sho",
+				"ShoppingCart"
+			],
+			[
+				"pr",
+				"productList"
+			],
+			[
+				"sh",
+				"ShoppingCart"
+			],
+			[
+				"ca",
+				"Categories"
+			],
+			[
+				"cos",
+				"cost"
+			],
+			[
+				"cart",
+				"cartId"
+			],
+			[
+				"prod",
+				"Product"
+			],
+			[
+				"Pro",
+				"Product"
+			],
+			[
+				"Pr",
+				"Product"
+			],
+			[
+				"p",
+				"productList"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"addd",
+				"addProduct"
+			],
+			[
+				"shg",
+				"shopping_cart"
+			],
+			[
+				"Ca",
+				"Categories"
+			],
+			[
+				"sho",
+				"shopping"
+			],
+			[
+				"caTEG",
+				"categories"
+			],
+			[
+				"E",
+				"Endpoint"
+			],
+			[
+				"res",
+				"Response"
+			],
+			[
+				"Re",
+				"Response"
+			],
+			[
+				"sc",
+				"screen_info"
+			],
+			[
+				"chec",
+				"checkCases"
+			],
+			[
+				"screen_",
+				"screen_info"
+			],
+			[
+				"scree",
+				"screen"
+			],
+			[
+				"scr",
+				"screen_info"
+			],
+			[
+				"sre",
+				"screen_info"
+			],
+			[
+				"a",
+				"aisle_seats"
+			],
+			[
+				"asi",
+				"aisle_seat"
+			],
+			[
+				"s",
+				"seats"
+			],
+			[
+				"sear",
+				"searchUntill"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"Pay",
+				"PaymentId"
+			],
+			[
+				"ar",
+				"arr"
+			],
+			[
+				"arr",
+				"arr1"
+			],
+			[
+				"ha",
+				"hashfunction"
+			],
+			[
+				"has",
+				"hash"
+			],
+			[
+				"u",
+				"upi"
+			],
+			[
+				"pa",
+				"pay"
+			],
+			[
+				"pri",
+				"price"
+			],
+			[
+				"st",
+				"start"
+			],
+			[
+				"max",
+				"maxProfitUtil"
+			],
+			[
+				"ob",
+				"obj1"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"cls",
+				"class"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"em",
+				"empSalary"
+			],
+			[
+				"emp",
+				"empId"
+			],
+			[
+				"In",
+				"Intern"
+			],
+			[
+				"int",
+				"intern"
+			],
+			[
+				"Sa",
+				"salary"
+			],
+			[
+				"S",
+				"String"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"Pa",
+				"Payment"
+			],
+			[
+				"pAY",
+				"Payment"
+			],
+			[
+				"pay",
+				"paymentId"
+			],
+			[
+				"cashPay",
+				"CashpaymentId"
+			],
+			[
+				"im",
+				"implements"
+			],
+			[
+				"pu",
+				"public"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"termin",
+				"Terminal: Open in project folder"
+			],
+			[
+				"termi",
+				"Terminal: Open in project folder"
+			],
+			[
+				"term",
+				"Terminal: Open in project folder"
+			],
+			[
+				"terminal",
+				"Terminal: Open in project folder"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"code",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"markd",
+				"MarkdownLivePreview: Open Preview"
+			],
+			[
+				"mark",
+				"MarkdownLivePreview: Open Preview"
+			],
+			[
+				"markdo",
+				"MarkdownLivePreview: Open Preview"
+			],
+			[
+				"ma",
+				"MarkdownLivePreview: Open Settings"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 267.0,
+		"history":
+		[
+			"ls",
+			"l",
+			"echo",
+			"`",
+			"git ",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/pilaniya/IdeaProjects/Programming/Interviewbit/Array/reverse-level-order.cpp",
+		"/home/pilaniya/IdeaProjects/Programming/Interviewbit/Array/reverse-level-order.java",
+		"/home/pilaniya/IdeaProjects/Programming/Interviewbit/Array/lip.cpp",
+		"/home/pilaniya/IdeaProjects/Programming/Interviewbit/Array/maximum-absolute-difference.java",
+		"/home/pilaniya/IdeaProjects/Programming/Interviewbit/Array/maximum-sum-triplet.cpp",
+		"/home/pilaniya/Desktop/Intern ID - 13044345",
+		"/home/pilaniya/Desktop/1.java",
+		"/home/pilaniya/Desktop/1.cpp",
+		"/home/pilaniya/Desktop/readme.md",
+		"/home/pilaniya/Desktop/3.cpp",
+		"/home/pilaniya/Downloads/meltdown_final_report/2020-01-05-Meltdown-Attack.md.html",
+		"/home/pilaniya/Downloads/Meltdown-Attack/meltdown.md",
+		"/home/pilaniya/Downloads/main.md",
+		"/home/pilaniya/Downloads/meltdown_final_report.md",
+		"/home/pilaniya/Downloads/meltdown_final_report/meltdown_final_report.md",
+		"/home/pilaniya/Desktop/udaan/README.sql",
+		"/home/pilaniya/Desktop/1.sql",
+		"/home/pilaniya/Desktop/udaan/flight/src/main/java/com/udaan/flight/model/User.java",
+		"/home/pilaniya/Desktop/project/tr/tr.sql",
+		"/home/pilaniya/Desktop/udaan/README",
+		"/home/pilaniya/practice/practice/2020/udaan/udaan.cpp",
+		"/home/pilaniya/practice/practice/2020/udaan/udaan _mohit.cpp",
+		"/home/pilaniya/practice/practice/2020/udaan/Udaan.MovieTicket.cpp",
+		"/home/pilaniya/practice/practice/2020/udaan/udaan (1).cpp",
+		"/home/pilaniya/practice/practice/2020/udaan/uddan.cpp",
+		"/home/pilaniya/Downloads/Udaan.MovieTicket.cpp",
+		"/home/pilaniya/Downloads/udaan.cpp",
+		"/home/pilaniya/Desktop/internship",
+		"/home/pilaniya/Desktop/oops/java/overloading/Overloading.java",
+		"/home/pilaniya/Desktop/oops/c++/SUM_overloading.cpp",
+		"/home/pilaniya/practice/sugar-rush-master/edge-verve/set-1/coloring-the-blocks/solution.cpp",
+		"/home/pilaniya/hackerRank/Permutation_Divisible_by_8.cpp",
+		"/home/pilaniya/hackerRank/Encircular.cpp",
+		"/home/pilaniya/hackerRank/connected_Sum.cpp",
+		"/home/pilaniya/hackerRank/Bob_Navigates_a_Maze.cpp",
+		"/home/pilaniya/hackerRank/Common_Prefix_length.cpp",
+		"/home/pilaniya/Desktop/oops/c++/Employee_abstract_inheritance.cpp",
+		"/home/pilaniya/Desktop/oops/java/Overriding.java/Overriding.java",
+		"/home/pilaniya/Desktop/oops/c++/overloading.cpp",
+		"/home/pilaniya/Desktop/oops/c++/interface.cpp",
+		"/home/pilaniya/Desktop/oops/c++/overriding.cpp",
+		"/home/pilaniya/Desktop/oops/c++/inheritance.cpp",
+		"/home/pilaniya/practice/oops/c++/overriding.cpp",
+		"/home/pilaniya/practice/oops/c++/overloading.cpp",
+		"/home/pilaniya/practice/oops/c++/interface.cpp",
+		"/home/pilaniya/practice/oops/c++/inheritance.cpp",
+		"/home/pilaniya/practice/oops/java/interface/PaymentService.java",
+		"/home/pilaniya/practice/oops/PaymentService.java",
+		"/home/pilaniya/Desktop/oops/PaymentService.java",
+		"/home/pilaniya/Videos/max.cpp",
+		"/home/pilaniya/Desktop/oops/java/inheritance/Employee.java",
+		"/home/pilaniya/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/pilaniya/Desktop/oops/interface.java"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 116.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "reverse-level-order.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"## 1 Introduction"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
