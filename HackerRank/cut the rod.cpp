@@ -5,7 +5,7 @@
 	[-,-,-,1,-,-]	  1,
 	[-,-,-,-,-,-]	 DONE
 **/
-
+// Time complexity-O(n^2)
 
 #include<bits/stdc++.h>
 using namespace std;
