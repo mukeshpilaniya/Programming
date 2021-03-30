@@ -1,5 +1,7 @@
 https://leetcode.com/discuss/interview-question/1087974/D.E.Shaw-OA-Test-or-Hackerrank
 
+
+//code not completed
 #include <bits/stdc++.h>
 using namespace std;
 
