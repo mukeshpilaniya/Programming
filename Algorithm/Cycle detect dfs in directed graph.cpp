@@ -1,7 +1,6 @@
-/* cycle detection in undirectedgrpah algo
+/* cycle detection in directed algo
 	1.dfs
-	2.bfs
-	3.disjoint set union
+	2.topologicalSort
 */
 
 bool dfs(vector<int>adj[], int s, vector<int>&vis, vector<int>&parent,vector<bool>&intheCall ){//vector<int>&parent can be replace with int p
